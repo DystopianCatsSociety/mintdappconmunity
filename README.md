@@ -39,3 +39,11 @@ npm install
 ## Usage ℹ️
 
 This repo will be used in a youtube tutorial.
+
+
+
+
+all other fixes were done in html and css are found in index.html and style.css file
+
+
+
